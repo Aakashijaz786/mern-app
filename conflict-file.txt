@@ -1,1 +1,7 @@
+
+Main feature conflict
+=======
+
+Feature feature conflict
+=======
 Main feature conflict
